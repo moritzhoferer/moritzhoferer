@@ -1,7 +1,7 @@
 ### Welcome 
 
 #### Short bio
-* [ ] PhD at ETH Zurich (~2021) 🇨🇭
+* [ ] PhD at ETH Zurich (early 2022) 🇨🇭
 * [x] Phyics M.Sc. (2017) & B.Sc. (2014) at LMU Munich 🇩🇪
 * [x] Master thesis at University of Milan 🇮🇹
 
