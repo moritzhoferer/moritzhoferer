@@ -1,9 +1,10 @@
 ### Welcome 
 
 #### Short bio
-* [x] Ph.D. at ETH Zurich (2022) 🇨🇭
-* [x] Physics M.Sc. (2017) & B.Sc. (2014) at LMU Munich 🇩🇪
-* [x] Master thesis at University of Milan 🇮🇹
+* [] Data Analyst at [Betty Bossi](https://www.bettybossi.ch/) (since 2022)
+* [x] Ph.D. at [ETH Zurich](https://ethz.ch/) (2022) 🇨🇭
+* [x] Physics M.Sc. (2017) & B.Sc. (2014) at [LMU Munich](https://www.lmu.de/) 🇩🇪
+* [x] Master thesis at [University of Milan](https://www.unimi.it/) 🇮🇹
 
 #### Publications 📝
 * M. Hoferer, L. Böttcher, H. J. Herrmann, and H. Gersbach, _The impact of technologies in political campaigns_, [Physica A: Statistical Mechanics and its Applications, **538**,122795](https://www.sciencedirect.com/science/article/pii/S0378437119315857) (2020), [arXiv:1909.07644](https://arxiv.org/abs/1909.07644).
