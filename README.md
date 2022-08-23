@@ -1,7 +1,7 @@
 ### Welcome 
 
 #### Short bio
-* [] Data Analyst at [Betty Bossi](https://www.bettybossi.ch/) (since 2022)
+* [ ] Data Analyst at [Betty Bossi](https://www.bettybossi.ch/) (since 2022)
 * [x] Ph.D. at [ETH Zurich](https://ethz.ch/) (2022) 🇨🇭
 * [x] Physics M.Sc. (2017) & B.Sc. (2014) at [LMU Munich](https://www.lmu.de/) 🇩🇪
 * [x] Master thesis at [University of Milan](https://www.unimi.it/) 🇮🇹
